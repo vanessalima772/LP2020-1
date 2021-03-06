@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 int main(void) {
@@ -8,8 +9,9 @@ int main(void) {
   if(n1<n2){
    printf("%i %i",n1,n2);
   }else{
-    printf("%i %i",n2,n1);
+   printf("%i %i",n2,n1);
 
   }
   return 0;
 }
+/*
